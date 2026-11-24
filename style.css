@@ -1,4 +1,4 @@
-/* よみごえ — 白い地・墨の文字・深い緑の差し色（白の上で 4.5:1 以上） */
+/* はかりどき — 白い地・墨の文字・藍の差し色（暗い画面では杏色。白の上で 4.5:1 以上） */
 :root {
   --paper: #ffffff; --card: #fbf7ee; --ink: #232323; --sub: #555555; --line: #e6e1d6;
   --vermilion: #2c4a6e; --vermilion-soft: #e4eaf2; --navy: #2c4a6e; --correct: #2c4a6e;
